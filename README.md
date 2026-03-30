@@ -69,8 +69,6 @@ Synthetic dataset representing hospital patient records, including:
 ## 📂 Files Included
 - Dataset (CSV)
 - SQL Queries
-- Dashboard Screenshots
   
-![Hospital Operations](https://github.com/user-attachments/assets/b5ecc7b3-8fa8-406d-b7e3-d6cfe0eed0a3)
 [hospital_operations_analysis_SQL_script.sql](https://github.com/user-attachments/files/26347566/hospital_operations_analysis_SQL_script.sql)
 [hospital_operations_data.csv](https://github.com/user-attachments/files/26347555/hospital_operations_data.csv)
